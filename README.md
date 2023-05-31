@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50px" height="50px" />  こんにちは
+ 
 
 <!--
 **rina-tt/rina-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rina-tt&theme=default)
+<!-- Profile -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rina-tt&count_private=true&show_icons=true&theme=default"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rina-tt&show_icons=true&theme=default"/>
+</a>
